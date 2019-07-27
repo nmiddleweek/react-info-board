@@ -1,0 +1,120 @@
+{
+  "queues": [
+    {
+      "name": "All Queues",
+      "metrics": [
+        {
+          "name": "Contacts in queue",
+          "value": 0
+        },
+        {
+          "name": "Agents available",
+          "value": 0
+        },
+        {
+          "name": "Contacts offered",
+          "value": 0
+        },
+        {
+          "name": "Longest call waiting",
+          "value": 0
+        },
+        {
+          "name": "Agents unavailable",
+          "value": 0
+        },
+        {
+          "name": "Contacts abandoned",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Core",
+      "metrics": [
+        {
+          "name": "Contacts in queue",
+          "value": 1
+        },
+        {
+          "name": "Agents available",
+          "value": 1
+        },
+        {
+          "name": "Contacts offered",
+          "value": 1
+        },
+        {
+          "name": "Longest call waiting",
+          "value": 1
+        },
+        {
+          "name": "Agents unavailable",
+          "value": 1
+        },
+        {
+          "name": "Contacts abandoned",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Premier 24",
+      "metrics": [
+        {
+          "name": "Contacts in queue",
+          "value": 2
+        },
+        {
+          "name": "Agents available",
+          "value": 2
+        },
+        {
+          "name": "Contacts offered",
+          "value": 2
+        },
+        {
+          "name": "Longest call waiting",
+          "value": 2
+        },
+        {
+          "name": "Agents unavailable",
+          "value": 2
+        },
+        {
+          "name": "Contacts abandoned",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Lost & Stolen",
+      "metrics": [
+        {
+          "name": "Contacts in queue",
+          "value": 3
+        },
+        {
+          "name": "Agents available",
+          "value": 3
+        },
+        {
+          "name": "Contacts offered",
+          "value": 3
+        },
+        {
+          "name": "Longest call waiting",
+          "value": 3
+        },
+        {
+          "name": "Agents unavailable",
+          "value": 3
+        },
+        {
+          "name": "Contacts abandoned",
+          "value": 3
+        }
+      ]
+    }
+  ]
+}
